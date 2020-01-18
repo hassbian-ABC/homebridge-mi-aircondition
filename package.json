@@ -1,0 +1,23 @@
+{
+  "name": "homebridge-mi-aircondition",
+  "version": "0.0.2",
+  "description": "XiaoMi MiAirCondition plugin for HomeBridge(https://github.com/nfarina/homebridge).",
+  "keywords": [
+    "homebridge-plugin"
+  ],
+  "author": "hassbian-ABC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hassbian-ABC/homebridge-mi-aircondition"
+  },
+  "bugs": {
+    "url": "https://github.com/hassbian-ABC/homebridge-mi-aircondition/issues"
+  },
+  "engines": {
+    "node": ">=0.12.0",
+    "homebridge": ">=0.4.1"
+  },
+  "dependencies": {
+    "miio": "^0.14.1"
+  }
+}
