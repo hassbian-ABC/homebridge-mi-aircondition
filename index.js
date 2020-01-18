@@ -46,8 +46,8 @@ function MiAirCondition(log, config) {
     this.config = config;
     
     this.log.info("[MiAirCondition][INFO]***********************************************************");
-    this.log.info("[MiAirCondition][INFO]          MiHeater v%s by hassbian-ABC 0.0.1");
-    this.log.info("[MiAirCondition][INFO]  GitHub: https://github.com/hassbian-ABC/homebridge-MiHeater ");
+    this.log.info("[MiAirCondition][INFO]           MiAirCondition v%s by hassbian-ABC 0.1.0");
+    this.log.info("[MiAirCondition][INFO]  GitHub: https://github.com/hassbian-ABC/homebridge-mi-aircondition ");
     this.log.info("[MiAirCondition][INFO]                                                                  ");
     this.log.info("[MiAirCondition][INFO]***********************************************************");
     this.log.info("[MiAirCondition][INFO]start success...");
