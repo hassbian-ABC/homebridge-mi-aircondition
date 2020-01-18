@@ -1,9 +1,10 @@
 # homebridge-mi-aircondition
 
-支持米家互联网空调 型号：zhimi.aircondition.ma3    
+支持米家互联网空调
+型号：zhimi.aircondition.ma1, zhimi.aircondition.ma2, zhimi.aircondition.ma3, zhimi.aircondition.ma4
 
 ```
-    "accessories": [
+    "accessories": [   
         {
             "accessory": "MiAirCondition",
             "name": "aircondition",
