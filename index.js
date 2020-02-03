@@ -482,7 +482,7 @@ MiAirCondition.prototype = {
 				}).catch(function(err) {
                     callback(err);
                 });
-            }.bind(this));
+            }.bind(this))
 			.on('set', function(value, callback) {
 				console.log("set_lightOnCharacteristic", value);
 				if (value === lightOnCharacteristic.value) {
